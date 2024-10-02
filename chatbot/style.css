@@ -1,0 +1,119 @@
+/* 
+.main {
+    background-color: white;
+    color: #333333;
+}
+.stButton>button {
+    background-color: #4F8BF9;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+}
+.stTextInput>div>div>input {
+    border: 1px solid #4F8BF9;
+    color: #333333;
+    border-radius: 4px;
+}
+.stHeader {
+    background-color: #4F8BF9;
+    padding: 1rem;
+    color: white;
+    border-radius: 4px;
+}
+.stExpander {
+    border: 1px solid #4F8BF9;
+    border-radius: 4px;
+}
+.stExpander>div>div>div>div {
+    background-color: white;
+    color: #333333;
+} */
+body {
+    background-color: white;
+    color: black;
+    font-family: 'Arial', sans-serif;
+}
+
+.stApp {
+    background-color: white;
+}
+
+/* Green top bar with centered "Dev 10" text */
+.stApp > header {
+    background-color: #2ecc71;
+    padding: 1rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+}
+
+.stApp > header::before {
+    content: "Dev 10 Helper Chatbot";
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* Hide default Streamlit header */
+.stApp > header .streamlit-header {
+    display: none;
+}
+
+/* Style for buttons */
+.stButton > button {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: #27ae60;
+}
+
+/* Style for text inputs */
+.stTextInput > div > div > input {
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    color: black;
+    border-radius: 4px;
+    padding: 0.5rem;
+}
+
+/* Style for headers */
+.stHeader {
+    background-color: #f1f1f1;
+    padding: 1rem;
+    color: black;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+/* Style for expanders */
+.stExpander {
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+.stExpander > div > div > div > div {
+    background-color: white;
+    color: black;
+    padding: 1rem;
+}
+
+/* Ensure all text is black */
+p, h1, h2, h3, h4, h5, h6, span, div {
+    color: black !important;
+}
+
+/* Smooth scrolling for the entire page */
+html {
+    scroll-behavior: smooth;
+}

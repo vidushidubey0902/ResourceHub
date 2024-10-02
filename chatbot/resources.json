@@ -1,0 +1,1050 @@
+{
+    "languages": [
+      {
+        "language": "JavaScript",
+        "resources": [
+          {
+            "title": "MDN Web Docs (Mozilla Developer Network)",
+            "description": "Comprehensive documentation and tutorials",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          },
+          {
+            "title": "freeCodeCamp",
+            "description": "Free, interactive curriculum with video tutorials",
+            "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+          },
+          {
+            "title": "JavaScript.info",
+            "description": "In-depth tutorials covering basics to advanced topics",
+            "link": "https://javascript.info/"
+          },
+          {
+            "title": "Codecademy's JavaScript Course",
+            "description": "Interactive learning platform with hands-on exercises",
+            "link": "https://www.codecademy.com/learn/introduction-to-javascript"
+          },
+          {
+            "title": "JavaScript: The Definitive Guide by David Flanagan",
+            "description": "Comprehensive book covering JavaScript in detail (Available as a physical book or e-book)",
+            "link": "https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/" 
+          },
+          {
+            "title": "Code with harry youtube course (Detailed & Long course - Hindi)",
+            "description": "Detailed Long Course in Hindi by Code with Harry Youtube Channel", 
+            "link": "https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&feature=shared"
+          },
+          {
+            "title": "Java Script Crash Course - Apna College (Hindi and english)",
+            "description": "Detailed Course for  Beginners to advances developers by Apna College Youtube Channel",
+            "link": "https://youtu.be/VlPiVmYuoqw?feature=shared"
+          },
+          {
+            "title": "12 Hour Crash Course for JavaScript",
+            "description": "Highly detailed 12 Hour Crash Course on JavaScirpt (Beginner Friendly)",
+            "link": "https://youtu.be/lfmg-EJ8gm4?feature=shared"
+          },
+          {
+            "title": "JavaScript Short Course (2 Hours)",
+            "description": "JavaScript crash course 2 Hours Youtube",
+            "link": "https://youtu.be/g7T23Xzys-A?feature=shared"
+          },
+          {
+            "title": "Basic JavaScript Course (Youtube)",
+            "description": "Javascript Mini Course 1 Hour",
+            "link": "https://youtu.be/W6NZfCO5SI?feature=shared"
+          }
+        ]
+      },
+      {
+        "language": "Python",
+        "resources": [
+          {
+            "title": "Python.org Official Documentation",
+            "description": "Comprehensive, official documentation and tutorials",
+            "link": "https://docs.python.org/3/tutorial/"
+          },
+          {
+            "title": "GeeksforGeeks Python Programming Language",
+            "description": "Extensive tutorials, articles, and practice problems",
+            "link": "https://www.geeksforgeeks.org/python-programming-language/"
+          },
+          {
+            "title": "Real Python",
+            "description": "In-depth tutorials, articles, and video courses",
+            "link": "https://realpython.com/"
+          },
+          {
+            "title": "Coursera's \"Python for Everybody\" Specialization",
+            "description": "Popular online course series by Dr. Charles Severance",
+            "link": "https://www.coursera.org/specializations/python"
+          },
+          {
+            "title": "\"Automate the Boring Stuff with Python\" by Al Sweigart",
+            "description": "Free online book with practical Python projects",
+            "link": "https://automatetheboringstuff.com/"
+          },
+          {
+            "title": "Python Course Hindi by Code with Harry",
+            "description": "Full Playlist of programming language by Code with harry youtue Channel in Hindi Language",
+            "link": "https://youtu.be/UrsmFxEIp5k?feature=shared"
+          },
+          {
+            "title": "Python Detailed Course Youtube",
+            "description": "Python Course Fully Detailed by Telusko Youtube Channel",
+            "link": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
+          },
+          {
+            "title":"Python Detailed Course",
+            "description"  : "Python detailed Course by Jenny’s Lectures",
+            "link": "https://www.youtube.com/watch?v=6i3EGqOBRiU&list=PLdo5W4Nhv31bZSiqiOL5ta39vSnBxpOPT"
+          },
+          {
+            "title": "Harvard Full Python Course by FreeCodeCamp",
+            "description": "Full Python course by Harward Univeristy presented on youtube by FreeCodeCamp youtube Channel",
+            "link": "https://www.youtube.com/watch?v=nLRL_NcnK-4"
+          },
+          {
+            "title":"Udemy 100 days of code pyhton",
+            "description"  : "100 Days of code udemy course  which includes high hands on labs and work along with good theoritical knowledge",
+            "link": "https://www.udemy.com/course/100-days-of-code/?couponCode=LEARNNOWPLANS"
+          }
+
+        ]
+    },
+    {
+      "language": "Java",
+      "resources": [
+          {
+              "title": "Oracle Java Documentation",
+              "description": "Official, comprehensive documentation",
+              "link": "https://docs.oracle.com/en/java/"
+          },
+          {
+              "title": "Java Tutorial by Baeldung",
+              "description": "In-depth tutorials covering various Java topics",
+              "link": "https://www.baeldung.com/java-tutorial"
+          },
+          {
+              "title": "GeeksforGeeks Java Programming Language",
+              "description": "Extensive tutorials, articles, and practice problems",
+              "link": "https://www.geeksforgeeks.org/java/"
+          },
+          {
+              "title": "Java Programming MOOC by University of Helsinki",
+              "description": "Free, comprehensive online course",
+              "link": "https://java-programming.mooc.fi/"
+          },
+          {
+              "title": "\"Head First Java\" by Kathy Sierra and Bert Bates",
+              "description": "Popular book for beginners with a unique teaching approach",
+              "link" : "https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf"
+          },
+          {
+              "title": "Codecademy's Learn Java Course",
+              "description": "Interactive platform with hands-on exercises",
+              "link": "https://www.codecademy.com/learn/learn-java"
+          },
+          {
+              "title": "Java Brains (YouTube Channel)",
+              "description": "Video tutorials covering various Java topics",
+              "link": "https://www.youtube.com/user/koushks"
+          },
+          {
+              "title": "Java Crash Course by BroCode (YouTube Channel)",
+              "description": "12-hour Java crash course",
+              "link": "https://youtu.be/xk4_1vDrzzo?feature=shared"
+          },
+          {
+              "title": "JavaPoint",
+              "description": "Comprehensive tutorials and examples",
+              "link": "https://www.javatpoint.com/java-tutorial"
+          },
+          {
+              "title": "\"Effective Java\" by Joshua Bloch",
+              "description": "Advanced book focusing on best practices and design patterns",
+              "link" : "https://www.amazon.in/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH"
+          }
+      ]
+    },
+    {
+      "language": "C++",
+      "resources": [
+          {
+              "title": "cppreference.com",
+              "description": "Comprehensive reference for C++ language and standard library",
+              "link": "https://en.cppreference.com/w/"
+          },
+          {
+              "title": "C++ Primer by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo",
+              "description": "Widely recommended book for beginners and intermediate learners",
+              "link": "https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf"
+          },
+          {
+              "title": "LearnCpp.com",
+              "description": "Free, in-depth tutorials covering C++ basics to advanced topics",
+              "link": "https://www.learncpp.com/"
+          },
+          {
+              "title": "C++ Core Guidelines",
+              "description": "Best practices and guidelines by Bjarne Stroustrup and Herb Sutter",
+              "link": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines"
+          },
+          {
+              "title": "GeeksforGeeks C++ Programming Language",
+              "description": "Extensive tutorials, articles, and practice problems",
+              "link": "https://www.geeksforgeeks.org/c-plus-plus/"
+          },
+          {
+              "title": "The Cherno (YouTube Channel)",
+              "description": "Video tutorials on C++ and game development",
+              "link": "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw"
+          },
+          {
+              "title": "C++ Crash Course by Josh Lospinoso",
+              "description": "Modern C++ book covering C++17 and C++20 features",
+              "link" : "https://www.amazon.in/C-Crash-Course-Josh-Lospinoso/dp/1593278888"
+          },
+          {
+              "title": "Codecademy's Learn C++ Course",
+              "description": "Interactive platform with hands-on exercises",
+              "link": "https://www.codecademy.com/learn/learn-c-plus-plus"
+          },
+          {
+              "title": "C++ Programming on Coursera by UCSD",
+              "description": "Comprehensive course series for beginners",
+              "link": "https://www.coursera.org/specializations/c-plus-plus-modern-development"
+          },
+          {
+              "title": "CppCon (YouTube Channel)",
+              "description": "Recordings of talks from the annual C++ Conference",
+              "link": "https://www.youtube.com/user/CppCon"
+          }
+      ]
+    },
+    {
+      "language": "PHP",
+      "resources": [
+          {
+              "title": "PHP.net Documentation",
+              "description": "Official, comprehensive documentation and tutorials",
+              "link": "https://www.php.net/manual/en/"
+          },
+          {
+              "title": "PHP: The Right Way",
+              "description": "Best practices and standards for modern PHP development",
+              "link": "https://phptherightway.com/"
+          },
+          {
+              "title": "Laracasts",
+              "description": "Video tutorials covering PHP and Laravel framework",
+              "link": "https://laracasts.com/"
+          },
+          {
+              "title": "PHP Apprentice",
+              "description": "Free online book for beginners",
+              "link": "https://phpapprentice.com/"
+          },
+          {
+              "title": "W3Schools PHP Tutorial",
+              "description": "Beginner-friendly tutorials with interactive examples",
+              "link": "https://www.w3schools.com/php/"
+          },
+          {
+              "title": "PHP: The Complete PHP MVC Course on Udemy",
+              "description": "Comprehensive course on PHP and MVC architecture",
+              "link": "https://www.udemy.com/course/php-mvc-from-scratch/"
+          },
+          {
+              "title": "PHP: The Complete PHP 8 Guide on Udemy",
+              "description": "Course covering the latest PHP features",
+              "link": "https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/"
+          },
+          {
+              "title": "Symfony Documentation",
+              "description": "Official docs for the popular PHP framework",
+              "link": "https://symfony.com/doc/current/index.html"
+          },
+          {
+              "title": "PHP The Right Way YouTube Channel",
+              "description": "Video tutorials on PHP best practices",
+              "link": "https://www.youtube.com/channel/UCUEzH08rDNBfljD9PGVZujg"
+          },
+          {
+              "title": "\"Modern PHP: New Features and Good Practices\" by Josh Lockhart",
+              "description": "Book covering modern PHP development practices",
+              "link" : "https://www.shroffpublishers.com/books/9789351109914/"
+          }
+      ]
+    },
+    {
+      "language": "HTML and CSS",
+      "resources": [
+          {
+              "title": "MDN Web Docs (Mozilla Developer Network)",
+              "description": "Comprehensive documentation and tutorials for both HTML and CSS",
+              "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+          },
+          {
+              "title": "W3Schools",
+              "description": "Beginner-friendly tutorials with interactive examples",
+              "link": "https://www.w3schools.com/html/"
+          },
+          {
+              "title": "freeCodeCamp",
+              "description": "Free, interactive curriculum with projects",
+              "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
+          },
+          {
+              "title": "CSS-Tricks",
+              "description": "Articles, tutorials, and snippets focusing on CSS",
+              "link": "https://css-tricks.com/"
+          },
+          {
+              "title": "HTML5 Doctor",
+              "description": "Resource for HTML5 elements and attributes",
+              "link": "http://html5doctor.com/"
+          },
+          {
+              "title": "Codecademy's HTML & CSS Course",
+              "description": "Interactive learning platform with hands-on exercises",
+              "link": "https://www.codecademy.com/catalog/language/html-css"
+          },
+          {
+              "title": "\"HTML and CSS: Design and Build Websites\" by Jon Duckett",
+              "description": "Visually appealing book for beginners",
+              "link" : "https://books.google.co.in/books?id=aGjaBTbT0o0C&printsec=copyright&redir_esc=y#v=onepage&q&f=false"
+          },
+          {
+              "title": "Flexbox Froggy",
+              "description": "Interactive game for learning CSS flexbox",
+              "link": "https://flexboxfroggy.com/"
+          },
+          {
+              "title": "Grid Garden",
+              "description": "Interactive game for learning CSS grid",
+              "link": "https://cssgridgarden.com/"
+          },
+          {
+              "title": "Web.dev by Google",
+              "description": "Tutorials and best practices for modern web development",
+              "link": "https://web.dev/learn/"
+          }
+      ]
+    },
+    {
+      "language": "React",
+      "resources": [
+          {
+              "title": "React Official Documentation",
+              "description": "Comprehensive, official documentation and tutorials",
+              "link": "https://reactjs.org/docs/getting-started.html"
+          },
+          {
+              "title": "freeCodeCamp's React Course",
+              "description": "Free, comprehensive video course",
+              "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
+          },
+          {
+              "title": "React Tutorial by Tao of React",
+              "description": "In-depth, concept-focused tutorials",
+              "link": "https://alexsidorenko.com/"
+          },
+          {
+              "title": "Egghead.io React Courses",
+              "description": "Video tutorials covering various React topics",
+              "link": "https://egghead.io/q/react"
+          },
+          {
+              "title": "\"React: Up & Running\" by Stoyan Stefanov",
+              "description": "Comprehensive book covering React fundamentals to advanced concepts",
+              "link" : "https://dl.ebooksworld.ir/books/React.Up.and.Running.2nd.Edition.Stoyan.Stefanov.OReilly.9781492051466.EBooksWorld.ir.pdf"
+          },
+          {
+              "title": "React for Beginners by Wes Bos",
+              "description": "Popular video course for beginners",
+              "link": "https://reactforbeginners.com/"
+          },
+          {
+              "title": "Scrimba's Learn React Course",
+              "description": "Interactive screencast-style tutorials",
+              "link": "https://scrimba.com/learn/learnreact"
+          },
+          {
+              "title": "Kent C. Dodds' Blog and Courses",
+              "description": "Advanced React patterns and best practices",
+              "link": "https://kentcdodds.com/blog"
+          },
+          {
+              "title": "Mini React course by Programming with Mosh",
+              "description": "Mini 1.5 Hour React course on YouTube",
+              "link": "https://youtu.be/SqcY0GlETPk?feature=share"
+          },
+          {
+              "title": "React Crash Course by freeCodeCamp",
+              "description": "React 11 Hour Crash Course on YouTube",
+              "link": "https://youtu.be/bMknfKXIFA8?feature=shared"
+          }
+      ]
+    },
+    {
+      "language": "Angular",
+      "resources": [
+          {
+              "title": "Angular Official Documentation",
+              "description": "Comprehensive, official documentation and tutorials",
+              "link": "https://angular.io/docs"
+          },
+          {
+              "title": "Angular Tutorial for Beginners by Mosh Hamedani",
+              "description": "Popular video course on YouTube",
+              "link": "https://www.youtube.com/watch?v=k5E2AVpwsko"
+          },
+          {
+              "title": "Angular University",
+              "description": "In-depth courses and articles",
+              "link": "https://angular-university.io/"
+          },
+          {
+              "title": "Egghead.io Angular Courses",
+              "description": "Video tutorials covering various Angular topics",
+              "link": "https://egghead.io/q/angular"
+          },
+          {
+              "title": "\"Angular: Up and Running\" by Shyam Seshadri",
+              "description": "Comprehensive book covering Angular fundamentals to advanced concepts",
+              "link" : "https://www.oreilly.com/library/view/angular-up-and/9781491999820/"
+          },
+          {
+              "title": "Pluralsight Angular Path",
+              "description": "Structured learning path with multiple courses",
+              "link": "https://www.pluralsight.com/paths/angular"
+          },
+          {
+              "title": "Udemy - Angular - The Complete Guide by Maximilian Schwarzmüller",
+              "description": "Highly rated, comprehensive course",
+              "link": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+          },
+          {
+              "title": "Angular In Depth",
+              "description": "Community-driven blog with advanced Angular articles",
+              "link": "https://indepth.dev/angular/"
+          },
+          {
+              "title": "Angular CLI Documentation",
+              "description": "Official docs for Angular's command-line interface",
+              "link": "https://angular.io/cli"
+          },
+          {
+              "title": "RxJS Documentation",
+              "description": "Docs for reactive programming library often used with Angular",
+              "link": "https://rxjs.dev/"
+          }
+      ]
+    },
+    {
+      "language": "Node.js",
+      "resources": [
+          {
+              "title": "Node.js Official Documentation",
+              "description": "Comprehensive, official documentation and guides",
+              "link": "https://nodejs.org/en/docs/"
+          },
+          {
+              "title": "freeCodeCamp's Node.js Courses",
+              "description": "Free, comprehensive video courses and tutorials",
+              "link": "https://www.freecodecamp.org/learn/apis-and-microservices/"
+          },
+          {
+              "title": "The Net Ninja Node.js Tutorial Series",
+              "description": "Popular YouTube tutorial series",
+              "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU"
+          },
+          {
+              "title": "Node.js Design Patterns by Mario Casciaro and Luciano Mammino",
+              "description": "Book covering advanced Node.js concepts and design patterns",
+              "link" : "https://www.amazon.in/Node-js-Design-Patterns-production-grade-applications/dp/1839214112"
+          },
+          {
+              "title": "Express.js Documentation",
+              "description": "Official docs for the popular Node.js web framework",
+              "link": "https://expressjs.com/"
+          },
+          {
+              "title": "Academind's Node.js Crash Course",
+              "description": "Comprehensive video tutorial on YouTube",
+              "link": "https://www.youtube.com/watch?v=C7TFgfY7JdE"
+          },
+          {
+              "title": "NodeSchool.io",
+              "description": "Interactive, open-source workshops",
+              "link": "https://nodeschool.io/"
+          },
+          {
+              "title": "\"Web Development with Node and Express\" by Ethan Brown",
+              "description": "Book covering full-stack development with Node.js and Express",
+              "link" : "https://www.vanmeegern.de/fileadmin/user_upload/PDF/Web_Development_with_Node_Express.pdf"
+          },
+          {
+              "title": "Awesome Node.js",
+              "description": "Curated list of Node.js packages and resources",
+              "link": "https://github.com/sindresorhus/awesome-nodejs"
+          },
+          {
+              "title": "Node.js Best Practices",
+              "description": "Comprehensive guide to Node.js best practices",
+              "link": "https://github.com/goldbergyoni/nodebestpractices"
+          }
+      ]
+    },
+    {
+      "language": "Django",
+      "resources": [
+          {
+              "title": "Official Django Documentation",
+              "description": "The official Django documentation is an extensive resource for learning and mastering Django. It provides in-depth information on installation, basic concepts, advanced topics, and practical examples, maintained by the Django developers themselves.",
+              "link": "https://docs.djangoproject.com/en/5.0/"
+          },
+          {
+              "title": "Django Girls Tutorial",
+              "description": "Django Girls offers a beginner-friendly tutorial designed to introduce newcomers to Django. It guides users through building a simple blog application, helping them understand core concepts and practical implementation of Django.",
+              "link": "https://tutorial.djangogirls.org/en/"
+          },
+          {
+              "title": "The Two Scoops of Django Book",
+              "description": "This book by Daniel Roy Greenfeld and Audrey Roy Greenfeld is well-regarded among Django developers. It explores advanced Django topics such as security, performance optimization, and best practices for developing production-ready applications.",
+              "link": "https://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/0981467342"
+          },
+          {
+              "title": "Talk Python: Django Testing with WebTest",
+              "description": "Michael Driscoll's course on Talk Python delves into testing Django applications using WebTest. It emphasizes the importance of testing and provides practical guidance for ensuring your Django apps are reliable and robust.",
+              "link": "https://training.talkpython.fm/courses/getting-started-with-django"
+          },
+          {
+              "title": "Real Python Django Tutorial Series",
+              "description": "Real Python offers a series of detailed tutorials on Django, covering various aspects from model creation to deployment. These tutorials provide a comprehensive approach to learning Django and applying it to real-world scenarios.",
+              "link": "https://realpython.com/tutorials/django/"
+          },
+          {
+              "title": "Python Django Tutorial for Beginners by Programming with Mosh",
+              "description": "A beginner-friendly video tutorial by Programming with Mosh that introduces Django fundamentals. It covers basic concepts and hands-on examples to help new developers get started with Django.",
+              "link": "https://m.youtube.com/watch?v=rHux0gMZ3Eg"
+          },
+          {
+              "title": "Django Tutorial #1 - Introduction by Net Ninja",
+              "description": "The Net Ninja's introduction to Django provides a clear and engaging overview of the framework. This video tutorial is ideal for those new to Django and looking to understand its core features and setup.",
+              "link": "https://m.youtube.com/watch?v=rHux0gMZ3Eg"
+          },
+          {
+              "title": "Python Django Web Framework - Full Course for Beginners by freeCodeCamp.org",
+              "description": "FreeCodeCamp's full course on Django offers an extensive introduction to the Django web framework. This beginner-friendly course covers a broad range of topics, including building and deploying Django applications.",
+              "link": "https://m.youtube.com/watch?v=F5mRW0jo-U4"
+          },
+          {
+              "title": "Learn Django in 20 Minutes!! by Tech With Tim",
+              "description": "Tech With Tim provides a rapid introduction to Django in this 20-minute video. It's designed for those who want to get a quick overview of Django and its capabilities.",
+              "link": "https://m.youtube.com/watch?v=nGIg40xs9e4"
+          },
+          {
+              "title": "Django Tutorial for Beginners | Full Course by Telusko",
+              "description": "Telusko's full course on Django is a comprehensive tutorial series for beginners. It covers a wide range of topics, from basic setup to advanced Django features, making it suitable for those looking to dive deep into Django development.",
+              "link": "https://m.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau"
+          }
+      ]
+    },
+    {
+      "language": "Flask",
+      "resources": [
+          {
+              "title": "Flask Documentation",
+              "description": "The official Flask documentation provides a comprehensive guide, including setup, tutorials, and API references. It's essential for understanding the framework's capabilities.",
+              "link": "https://flask.palletsprojects.com/en/2.0.x/"
+          },
+          {
+              "title": "Flask Tutorial - GeeksforGeeks",
+              "description": "A detailed tutorial covering everything from installation to advanced topics like user authentication and database integration, perfect for learners at all levels.",
+              "link": "https://www.geeksforgeeks.org/flask-tutorial/"
+          },
+          {
+              "title": "Introduction to Web Development Using Flask - GeeksforGeeks",
+              "description": "This article introduces Flask and provides practical examples for building web applications, making it suitable for beginners.",
+              "link": "https://www.geeksforgeeks.org/introduction-to-web-development-using-flask/"
+          },
+          {
+              "title": "The Flask Web Framework: A Beginner's Guide - CareerFoundry",
+              "description": "A beginner-friendly guide that explains the fundamentals of Flask, its advantages, and how to get started with web development using this framework.",
+              "link": "https://careerfoundry.com/en/blog/web-development/a-beginners-guide-to-the-flask-web-framework/"
+          },
+          {
+              "title": "Build a Scalable Flask Web Project From Scratch - Real Python",
+              "description": "A hands-on tutorial that walks you through creating a scalable Flask project, covering essential concepts like templates and static files.",
+              "link": "https://realpython.com/flask-by-example-part-1-project-setup/"
+          },
+          {
+              "title": "YouTube - Flask Tutorials",
+              "description": "A variety of video tutorials available on YouTube that cover different aspects of Flask development, suitable for visual learners.",
+              "link": "https://www.youtube.com/results?search_query=flask+tutorial"
+          },
+          {
+              "title": "Udemy - Flask Courses",
+              "description": "Offers a range of structured courses on Flask, from beginner to advanced levels, often including practical projects and hands-on learning.",
+              "link": "https://www.udemy.com/topic/flask/"
+          },
+          {
+              "title": "Flask Mega-Tutorial",
+              "description": "An extensive tutorial series by Miguel Grinberg that covers building a complete web application using Flask, ideal for those looking for in-depth learning.",
+              "link": "https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world"
+          },
+          {
+              "title": "Flask by Example",
+              "description": "A project-based approach to learning Flask by building real applications, which helps in understanding practical implementations.",
+              "link": "https://realpython.com/flask-by-example-part-1-project-setup/"
+          },
+          {
+              "title": "Stack Overflow - Flask Development",
+              "description": "A community-driven platform where developers can ask questions and share knowledge about Flask, providing a wealth of information and support.",
+              "link": "https://stackoverflow.com/questions/tagged/flask"
+          }
+      ]
+    },
+    {
+      "language": "Laravel",
+      "resources": [
+          {
+              "title": "Laravel Documentation",
+              "description": "The official Laravel documentation is comprehensive and covers everything from installation to advanced features, making it essential for all levels of developers.",
+              "link": "https://laravel.com/docs"
+          },
+          {
+              "title": "Laravel Bootcamp",
+              "description": "A hands-on introduction to Laravel, this bootcamp guides you through building your first Laravel application, ideal for beginners looking to get started quickly.",
+              "link": "https://bootcamp.laravel.com/"
+          },
+          {
+              "title": "Laravel from Scratch - YouTube Series",
+              "description": "A popular video series on YouTube that provides a thorough introduction to Laravel, covering various topics in a clear and engaging manner.",
+              "link": "https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ1ZkO7fwIHZ1XBl_i3CV3"
+          },
+          {
+              "title": "Laravel News",
+              "description": "A community-driven site that offers tutorials, news, and resources related to Laravel, perfect for staying updated on best practices and new features.",
+              "link": "https://laravel-news.com/"
+          },
+          {
+              "title": "Laracasts",
+              "description": "A subscription-based platform offering high-quality video tutorials on Laravel and related technologies, suitable for both beginners and advanced developers.",
+              "link": "https://laracasts.com/"
+          },
+          {
+              "title": "GitHub - Laravel Repositories",
+              "description": "Explore various open-source Laravel projects and packages on GitHub, which can serve as practical examples for learning and inspiration.",
+              "link": "https://github.com/laravel"
+          },
+          {
+              "title": "Laravel 11 Release Notes",
+              "description": "Stay informed about the latest features and improvements in Laravel 11 through the official release notes, which provide insights into new capabilities.",
+              "link": "https://laravel.com/docs/11.x/releases"
+          },
+          {
+              "title": "PDF Documentation Repository",
+              "description": "Access up-to-date Laravel documentation in PDF format for offline use, which is helpful for developers who prefer reading without an internet connection.",
+              "link": "https://leanpub.com/laravel-the-definitive-guide"
+          },
+          {
+              "title": "Flask to Laravel Migration Guide",
+              "description": "For those transitioning from Flask to Laravel, this guide provides insights into differences and similarities between the two frameworks.",
+              "link": "https://laravel-news.com/flask-to-laravel"
+          },
+          {
+              "title": "Stack Overflow - Laravel Development",
+              "description": "A community-driven Q&A platform where developers can ask questions and share knowledge about Laravel, providing a wealth of information and support.",
+              "link": "https://stackoverflow.com/questions/tagged/laravel"
+          }
+      ]
+    },
+    {
+      "language": "React Native",
+      "resources": [
+          {
+              "title": "React Native Documentation",
+              "description": "The official documentation provides a comprehensive guide to getting started with React Native, covering installation, components, and best practices.",
+              "link": "https://reactnative.dev/docs/getting-started"
+          },
+          {
+              "title": "Learn the Basics - React Native Tutorial",
+              "description": "This tutorial introduces the basic structure of a React Native app, covering essential concepts like components, state, and props, making it accessible for all audiences.",
+              "link": "https://reactnative.dev/docs/tutorial"
+          },
+          {
+              "title": "React Native Environment Setup",
+              "description": "A guide to setting up your development environment for React Native, including instructions for both Android and iOS platforms.",
+              "link": "https://reactnative.dev/docs/environment-setup"
+          },
+          {
+              "title": "YouTube - React Native Tutorials",
+              "description": "A collection of video tutorials on YouTube that cover various aspects of React Native development, from beginner to advanced topics.",
+              "link": "https://www.youtube.com/results?search_query=react+native+tutorial"
+          },
+          {
+              "title": "Expo Documentation",
+              "description": "Expo is a framework and platform for universal React applications. This documentation provides resources for building and deploying apps using Expo with React Native.",
+              "link": "https://docs.expo.dev/"
+          },
+          {
+              "title": "React Native Express",
+              "description": "An interactive tutorial that covers the fundamentals of React Native, providing a hands-on approach to learning through practical examples.",
+              "link": "https://www.reactnative.express/"
+          },
+          {
+              "title": "React Native by Example",
+              "description": "A project-based learning resource that guides you through building real-world applications using React Native, ideal for practical learning.",
+              "link": "https://reactnativebyexample.com/"
+          },
+          {
+              "title": "React Native Community",
+              "description": "A vibrant community where developers can share knowledge, ask questions, and collaborate on projects related to React Native.",
+              "link": "https://reactnative.dev/community"
+          },
+          {
+              "title": "Udemy - React Native Courses",
+              "description": "A variety of structured courses on Udemy that cover React Native from beginner to advanced levels, often including hands-on projects.",
+              "link": "https://www.udemy.com/topic/react-native/"
+          },
+          {
+              "title": "Stack Overflow - React Native Development",
+              "description": "A community-driven platform where developers can ask questions and share knowledge about React Native, providing a wealth of information and support.",
+              "link": "https://stackoverflow.com/questions/tagged/react-native"
+          }
+      ]
+    },
+    {
+      "language": "Flutter",
+      "resources": [
+          {
+              "title": "Flutter Documentation",
+              "description": "The official Flutter documentation provides a comprehensive guide to getting started with Flutter, covering installation, widgets, examples, and API docs.",
+              "link": "https://flutter.dev/docs"
+          },
+          {
+              "title": "Flutter YouTube Channel",
+              "description": "The official Flutter YouTube channel features a wide range of videos, including tutorials, talks, and updates, making it an excellent resource for learning Flutter.",
+              "link": "https://www.youtube.com/c/flutterdev"
+          },
+          {
+              "title": "Flutter Crash Course for Busy Android Developers",
+              "description": "A popular YouTube video series by Philipp Lackner that teaches Flutter for Android developers in a concise and practical manner.",
+              "link": "https://www.youtube.com/playlist?list=PLQhP5NrpDLiyGgKx8cUKZX5YEUUbyqD1d"
+          },
+          {
+              "title": "Flutter Explained",
+              "description": "A YouTube channel by Reso Coder that provides in-depth tutorials and explanations on various Flutter topics, suitable for both beginners and advanced learners.",
+              "link": "https://www.youtube.com/c/ResoCoder"
+          },
+          {
+              "title": "The Net Ninja - Flutter Tutorial for Beginners",
+              "description": "A comprehensive YouTube tutorial series by The Net Ninja that covers Flutter from the ground up, making it ideal for beginners.",
+              "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gXdVXVJBmHpSI7zCEcjLUX"
+          },
+          {
+              "title": "Flutter in Practice",
+              "description": "A book by Simon Lightfoot that provides practical examples and best practices for building real-world Flutter applications.",
+              "link": "https://www.amazon.com/Flutter-Practice-Real-World-Application/dp/1788996084"
+          },
+          {
+              "title": "Flutter Cookbook",
+              "description": "A collection of recipes that demonstrate how to solve common Flutter development problems, available in the official Flutter documentation.",
+              "link": "https://flutter.dev/docs/cookbook"
+          },
+          {
+              "title": "Flutter Samples",
+              "description": "A GitHub repository maintained by the Flutter team that showcases a variety of Flutter app samples, providing inspiration and practical examples.",
+              "link": "https://github.com/flutter/samples"
+          },
+          {
+              "title": "Flutter Community",
+              "description": "A vibrant community of Flutter developers that shares knowledge, asks questions, and collaborates on projects related to Flutter.",
+              "link": "https://flutter.dev/community"
+          },
+          {
+              "title": "Udemy - Flutter Courses",
+              "description": "Udemy offers a wide range of structured courses on Flutter, from beginner to advanced levels, often including hands-on projects.",
+              "link": "https://www.udemy.com/topic/flutter/"
+          }
+      ]
+    },
+    {
+      "language": "Kotlin App Dev",
+      "resources": [
+          {
+              "title": "Android Developers Documentation",
+              "description": "The official Android documentation provides guides, tutorials, and API references for developing Android apps using Java and Kotlin.",
+              "link": "https://developer.android.com/docs"
+          },
+          {
+              "title": "Kotlin for Java Developers (Coursera)",
+              "description": "A Coursera course that teaches Kotlin to Java developers, covering the basics of the language and how to use it for Android development.",
+              "link": "https://www.coursera.org/learn/kotlin-for-java-developers"
+          },
+          {
+              "title": "Java and Kotlin Android Development: Build a Restaurant App (Udemy)",
+              "description": "A Udemy course that teaches Android development using both Java and Kotlin, with a focus on building a real-world restaurant app.",
+              "link": "https://www.udemy.com/course/java-and-kotlin-android-development-build-a-restaurant-app/"
+          },
+          {
+              "title": "Java vs Kotlin: Key Differences for Android Development",
+              "description": "An article that compares Java and Kotlin, highlighting the key differences and advantages of each language for Android development.",
+              "link": "https://www.geeksforgeeks.org/java-vs-kotlin-key-differences-for-android-development/"
+          },
+          {
+              "title": "Android Studio",
+              "description": "The official IDE for Android development, which provides support for both Java and Kotlin, as well as tools for converting between the two languages.",
+              "link": "https://developer.android.com/studio"
+          },
+          {
+              "title": "Kotlin Bootcamp for Programmers (Google)",
+              "description": "A free course from Google that teaches the basics of Kotlin, including how to use it for Android development.",
+              "link": "https://developer.android.com/courses/kotlin-bootcamp"
+          },
+          {
+              "title": "Java and Kotlin Interoperability",
+              "description": "A guide on how to use Java and Kotlin together in the same Android project, including how to call Java code from Kotlin and vice versa.",
+              "link": "https://developer.android.com/kotlin/interop"
+          },
+          {
+              "title": "Android KTX",
+              "description": "A set of Kotlin extensions that provide a more idiomatic way to use the Android SDK, making it easier to write concise and expressive code.",
+              "link": "https://developer.android.com/kotlin/ktx"
+          },
+          {
+              "title": "Kotlin Coroutines",
+              "description": "A feature of Kotlin that simplifies asynchronous programming, making it easier to write efficient and scalable Android apps.",
+              "link": "https://developer.android.com/kotlin/coroutines"
+          },
+          {
+              "title": "Jetpack Compose",
+              "description": "Android's modern UI toolkit, which is built using Kotlin and provides a declarative way to build user interfaces for Android apps.",
+              "link": "https://developer.android.com/jetpack/compose"
+          }
+      ]
+    },
+    {
+      "language": "Swift UI",
+      "resources": [
+          {
+              "title": "SwiftUI Documentation",
+              "description": "The official Apple documentation provides a comprehensive overview of SwiftUI, including its features, components, and how to use it to build user interfaces across all Apple platforms.",
+              "link": "https://developer.apple.com/documentation/swiftui/"
+          },
+          {
+              "title": "SwiftUI Tutorials",
+              "description": "A series of tutorials from Apple that guide you through building apps with SwiftUI, covering topics like views, data flow, and navigation with hands-on examples in Xcode.",
+              "link": "https://developer.apple.com/tutorials/swiftui"
+          },
+          {
+              "title": "SwiftUI Docs",
+              "description": "An unofficial guide that simplifies the learning process for SwiftUI by providing visual aids and practical examples, making it easier to understand the framework's components.",
+              "link": "https://swiftui-docs.com/"
+          },
+          {
+              "title": "100 Days of SwiftUI",
+              "description": "A free online course by Paul Hudson that offers a structured approach to learning SwiftUI through daily challenges and projects, ideal for beginners.",
+              "link": "https://www.hackingwithswift.com/100/swiftui"
+          },
+          {
+              "title": "YouTube - SwiftUI Tutorials by Sean Allen",
+              "description": "A YouTube channel featuring a variety of SwiftUI tutorials and projects, focusing on practical applications and best practices in app development.",
+              "link": "https://www.youtube.com/playlist?list=PLPr3Z8r8oKyRj3kIVtfYF31nxiYAAqFLu"
+          },
+          {
+              "title": "SwiftUI by Example",
+              "description": "A website that provides practical examples and explanations of various SwiftUI components, helping you understand how to implement them in your projects.",
+              "link": "https://www.hackingwithswift.com/quick-start/swiftui"
+          },
+          {
+              "title": "SwiftUI Masterclass",
+              "description": "A comprehensive Udemy course that covers all aspects of SwiftUI, including advanced topics, and includes multiple projects to enhance your learning experience.",
+              "link": "https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/"
+          },
+          {
+              "title": "Ray Wenderlich - SwiftUI",
+              "description": "A collection of tutorials and resources focused on SwiftUI, offering both free and premium content that covers various aspects of app development.",
+              "link": "https://www.raywenderlich.com/swiftui"
+          },
+          {
+              "title": "SwiftUI Lab",
+              "description": "A blog that provides in-depth articles, tutorials, and tips on SwiftUI, including advanced techniques and new features.",
+              "link": "https://swiftui-lab.com/"
+          },
+          {
+              "title": "Stack Overflow - SwiftUI Development",
+              "description": "A community-driven platform where developers can ask questions and share knowledge about SwiftUI, providing a wealth of information and support.",
+              "link": "https://stackoverflow.com/questions/tagged/swiftui"
+          }
+      ]
+    },
+    {
+      "language": "Docker",
+      "resources": [
+          {
+              "title": "Docker Documentation",
+              "description": "The official Docker documentation provides a comprehensive library of resources, manuals, and guides to help you containerize applications. It covers installation, getting started, and advanced topics.",
+              "link": "https://docs.docker.com/"
+          },
+          {
+              "title": "Docker Getting Started Guide",
+              "description": "A beginner-friendly guide that walks you through the basics of Docker, including how to build and run your first containerized application.",
+              "link": "https://docs.docker.com/get-started/"
+          },
+          {
+              "title": "YouTube - Docker Tutorial Videos | DevOps Tool",
+              "description": "A playlist that covers various Docker tutorials, suitable for beginners and those looking to enhance their skills in using Docker as a DevOps tool.",
+              "link": "https://www.youtube.com/playlist?list=PLy7NrYWoggjwPggqtFsI_zMAwvG0SqYCb"
+          },
+          {
+              "title": "YouTube - Docker Tutorial for Beginners",
+              "description": "This playlist includes a complete Docker tutorial for beginners, featuring hands-on demos and explanations of core concepts.",
+              "link": "https://www.youtube.com/playlist?list=PLVHgQku8Z934suC66mPJ4Tzq2XHb5ewY2"
+          },
+          {
+              "title": "YouTube - Docker Tutorials",
+              "description": "A playlist that helps you get started with Docker, focusing on containerization and practical applications within your infrastructure.",
+              "link": "https://www.youtube.com/playlist?list=PLhW3qG5bs-L9QveXp4Kr2o-IIT6thVKeR"
+          },
+          {
+              "title": "YouTube - Docker Crash Course for Absolute Beginners",
+              "description": "A comprehensive crash course that teaches you the foundational concepts of Docker, providing a mix of theoretical explanations and hands-on demos.",
+              "link": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+          },
+          {
+              "title": "YouTube - Docker Tutorial for Beginners by CodeWithMash",
+              "description": "A detailed tutorial covering everything from installation to running applications in Docker, designed for complete beginners.",
+              "link": "https://www.youtube.com/watch?v=3c-iBn73dDE"
+          },
+          {
+              "title": "Docker Mastery: with Kubernetes + Swarm from a Docker Captain (Udemy)",
+              "description": "A popular Udemy course that covers Docker and Kubernetes in depth, suitable for beginners and those looking to enhance their skills.",
+              "link": "https://www.udemy.com/course/docker-mastery/"
+          },
+          {
+              "title": "Play with Docker",
+              "description": "An online platform that allows you to experiment with Docker commands and features in a sandbox environment without needing to install anything locally.",
+              "link": "https://labs.play-with-docker.com/"
+          },
+          {
+              "title": "Stack Overflow - Docker Development",
+              "description": "A community-driven platform where developers can ask questions and share knowledge about Docker, providing a wealth of information and support.",
+              "link": "https://stackoverflow.com/questions/tagged/docker"
+          }
+      ]
+    },
+    {
+      "language": "Git",
+      "resources": [
+          {
+              "title": "Git Documentation",
+              "description": "The official Git documentation provides a comprehensive overview of Git, including installation, commands, and best practices. It is an essential resource for understanding Git's capabilities.",
+              "link": "https://git-scm.com/doc"
+          },
+          {
+              "title": "Pro Git Book",
+              "description": "Written by Scott Chacon and Ben Straub, this book is available for free online and covers everything from the basics to advanced Git features.",
+              "link": "https://git-scm.com/book/en/v2"
+          },
+          {
+              "title": "YouTube - Git and GitHub for Beginners",
+              "description": "A complete tutorial for beginners that covers the basics of Git and how to use it with GitHub, including creating repositories, committing changes, and collaborating with others.",
+              "link": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+          },
+          {
+              "title": "YouTube - Git Tutorial for Beginners",
+              "description": "This playlist provides a series of tutorials that teach the fundamentals of Git, including branching, merging, and resolving conflicts.",
+              "link": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5"
+          },
+          {
+              "title": "YouTube - Git Crash Course",
+              "description": "A concise crash course that introduces Git concepts and commands, perfect for those who want to get up to speed quickly.",
+              "link": "https://www.youtube.com/watch?v=SWYqp7iY_Tc"
+          },
+          {
+              "title": "YouTube - Learn Git in 10 Minutes",
+              "description": "A quick overview of Git that covers essential commands and concepts in a short time, ideal for beginners who want a fast introduction.",
+              "link": "https://www.youtube.com/watch?v=HVsySz-h9r4"
+          },
+          {
+              "title": "GitHub Docs",
+              "description": "The official GitHub documentation provides resources for using Git with GitHub, including setting up repositories, managing branches, and collaborating on projects.",
+              "link": "https://docs.github.com/en"
+          },
+          {
+              "title": "Git Cheat Sheet",
+              "description": "A handy reference guide that summarizes essential Git commands and workflows, useful for quick look-ups while working with Git.",
+              "link": "https://education.github.com/git-cheat-sheet-education.pdf"
+          },
+          {
+              "title": "YouTube - Git Tutorial for Beginners by Academind",
+              "description": "A detailed tutorial that covers Git basics, including installation, configuration, and common workflows, aimed at beginners.",
+              "link": "https://www.youtube.com/watch?v=8JJ101D3knE"
+          },
+          {
+              "title": "Stack Overflow - Git Development",
+              "description": "A community-driven platform where developers can ask questions and share knowledge about Git, providing a wealth of information and support.",
+              "link": "https://stackoverflow.com/questions/tagged/git"
+          }
+      ]
+    },
+    {
+      "language": "Cloud Platforms",
+      "resources": [
+          {
+              "title": "Azure Documentation",
+              "description": "Comprehensive documentation for Microsoft Azure, covering services, tutorials, and how to build and manage applications in the cloud.",
+              "link": "https://docs.microsoft.com/en-us/azure/"
+          },
+          {
+              "title": "AWS Documentation",
+              "description": "The official documentation for Amazon Web Services, providing extensive resources on all AWS services, tutorials, and best practices for cloud development.",
+              "link": "https://docs.aws.amazon.com/"
+          },
+          {
+              "title": "Google Cloud Documentation",
+              "description": "The official documentation for Google Cloud Platform, offering guides, tutorials, and API references for all GCP services.",
+              "link": "https://cloud.google.com/docs"
+          },
+          {
+              "title": "YouTube - Azure Tutorial for Beginners",
+              "description": "A comprehensive video tutorial series that covers the basics of Azure, including setting up services and deploying applications.",
+              "link": "https://www.youtube.com/playlist?list=PLlrxo7n1d6iD2Pj2kYTaL5h9i9XqjfuLV"
+          },
+          {
+              "title": "YouTube - AWS Tutorial for Beginners",
+              "description": "A beginner-friendly video series that introduces AWS services, architecture, and how to get started with cloud computing.",
+              "link": "https://www.youtube.com/playlist?list=PLhr1KZpdzukeL6k8UdtTQjghnV5yuKWT3"
+          },
+          {
+              "title": "YouTube - Google Cloud Platform (GCP) Tutorial for Beginners",
+              "description": "A detailed introduction to GCP, covering key services, deployment, and management of applications in the Google Cloud environment.",
+              "link": "https://www.youtube.com/playlist?list=PLgxF613RsGoUuLihR9u_gqGkM3H6pC3S0"
+          },
+          {
+              "title": "YouTube - Cloud Computing Full Course",
+              "description": "A comprehensive course that covers cloud computing concepts, including Azure, AWS, and GCP, suitable for those looking to understand the broader cloud landscape.",
+              "link": "https://www.youtube.com/playlist?list=PL4VgltU7bww8r5h8wyYTZPS9cfTYp1fhR"
+          },
+          {
+              "title": "Microsoft Learn - Azure Learning Paths",
+              "description": "A series of guided learning paths offered by Microsoft that cover various Azure topics, from beginner to advanced levels, with hands-on labs.",
+              "link": "https://learn.microsoft.com/en-us/training/paths/"
+          },
+          {
+              "title": "AWS Training and Certification",
+              "description": "AWS offers a variety of training resources, including free digital training and certification programs to enhance your cloud skills.",
+              "link": "https://aws.amazon.com/training/"
+          },
+          {
+              "title": "Google Cloud Training",
+              "description": "Google Cloud provides training resources and certification programs to help you learn how to use GCP effectively and advance your cloud career.",
+              "link": "https://cloud.google.com/training"
+          }
+      ]
+    }
+]
+}

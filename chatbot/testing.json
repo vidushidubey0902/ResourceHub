@@ -1,0 +1,22 @@
+{
+    "language": "language name",
+    "title" : "language Roadmap",
+    "Description" : "Language Learning Roadmap 10 Steps",
+    "stepsSchema" : [
+        {
+            "title" : "step 1",
+            "Description" : "Description of step 1",
+            "difficultyLevel" : "beginner"
+        },
+        {
+            "title" : "step 2",
+            "Description" : "Description of step 2",
+            "difficultyLevel" : "beginner"
+        },
+        {
+            "title" : "step 3",
+            "Description" : "Description of step 3",
+            "difficultyLevel" : "intermediate"
+        }
+    ]
+}
